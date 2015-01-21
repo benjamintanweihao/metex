@@ -1,4 +1,5 @@
 Metex
 =====
 
-** TODO: Add description **
+A simple Elixir app that reports the temperature given a location.
+
